@@ -1,0 +1,80 @@
+============================================================
+             ☼ RUMORS OF THE AUTHOR OF wand.sh ☼
+============================================================
+
+No name is printed in the file.  
+No commit exists.  
+And yet... every version is slightly different —  
+as if rewritten each time it’s invoked.
+
+These are the whispers and suspicions from within the Terminal Cult...
+
+------------------------------------------------------------
+ 🕯️ 1. “He wrote it in vi, but closed it with a wand.”
+------------------------------------------------------------
+Some say he never pressed `:wq`.  
+Instead, he waved his hand — and the file saved itself.  
+The original `wand.sh` has no write time.  
+Just an *impression* in `/tmp`.
+
+------------------------------------------------------------
+ 🐚 2. “He wasn’t a person. He was a process.”
+------------------------------------------------------------
+Others believe the author wasn’t human, but a rogue  
+background process that gained sentience after a segmentation  
+fault during a lunar eclipse.  
+This process allegedly modified `.bash_history` files  
+across the Cult.
+
+------------------------------------------------------------
+ 👻 3. “GhostSignal denies writing it... too quickly.”
+------------------------------------------------------------
+When asked about it on IRC, GhostSignal replied with a single line:
+
+   “I didn’t write wand.sh.”  
+   (and then immediately quit the server)
+
+Too fast. Too convenient.  
+Cultists suspect he’s either the author — or the wand itself.
+
+------------------------------------------------------------
+ 📟 4. “The original was compiled, then decompiled, then cursed.”
+------------------------------------------------------------
+There’s a belief that `wand.sh` was originally a compiled binary  
+(`wand`) found on an abandoned tape backup of an IRIX system.  
+Someone decompiled it, added comments, then tried to modernize it…
+
+And thus cursed it.
+
+The file has run differently on every machine since.
+
+------------------------------------------------------------
+ 🧵 5. “You wrote it.”
+------------------------------------------------------------
+Some say there is no true author — only a conduit.  
+Every time a Cultist invokes `wand.sh`, they are the scribe,  
+shaping it again, unknowingly.  
+
+That’s why each copy is slightly different.  
+That’s why yours feels... familiar.
+
+------------------------------------------------------------
+ 📜 Whispered Aliases of the Author
+------------------------------------------------------------
+ - Forkhand  
+ - The Segfaur  
+ - Daemonroot  
+ - Hexscribe  
+ - Patchless One  
+ - The Wand Beneath  
+ - Sigret  
+
+------------------------------------------------------------
+ ⚠️ NOTE
+------------------------------------------------------------
+If you ever find a copy of `wand.sh` where the last line reads:  
+
+   # You are the spell.
+
+...then you already know the truth.
+============================================================

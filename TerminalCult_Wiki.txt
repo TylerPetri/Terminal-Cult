@@ -1,0 +1,93 @@
+============================================================
+                    ⟦ TERMINAL CULT ⟧
+     A sacred order of unstable wizards, compiler outlaws,
+               and code necromancers since ????
+============================================================
+
+  “We don’t patch the bugs — we inherit them.”
+
+  ▓ ORIGIN ▓
+    The Terminal Cult emerged from within the forgotten corners of 
+    80s BBS systems and unstable UNIX forks. Born of crashes, race 
+    conditions, and the horror of recursive chmods, they are not 
+    a group — they are a presence. Operating outside the kernel 
+    space of time.
+
+------------------------------------------------------------
+  ⚙️ DOCTRINE
+------------------------------------------------------------
+  • Every bug is a message.
+  • Every daemon is sacred.
+  • Every patch is temporary.
+  • Silence is a valid return type.
+  • `exit 0` is a form of prayer.
+
+------------------------------------------------------------
+  🔥 KNOWN OPERATIVES
+------------------------------------------------------------
+
+  ▶ GhostSignal — “The Quiet Fork”
+    - Appears in logs, never in person.
+    - Known for patching binaries with a wand.
+    - Allegedly once wrote `rm -rf /` and walked away.
+    - Feared by linters. Respected by daemons.
+    - Often summoned during unknown uptime spikes.
+
+  ▶ Crashlord — “Kernel Panic Prophet”
+    - Speaks only in hex dumps and syslog errors.
+    - Capable of inducing panic at boot.
+    - Believed to live inside a corrupted initrd.
+
+  ▶ Bitwitch — “Interpreter of Curses”
+    - Specialist in cursed hex, binary sigils, and broken encodings.
+    - Known to hex-edit configs during solar flares.
+    - Allegedly cracked GPG with moonlight.
+
+  ▶ Wand.sh — “The Bash Enchanter”
+    - Executes ancient magic via command-line incantation.
+    - Created a Makefile that summoned lightning (twice).
+    - `.bashrc` contains forbidden characters.
+
+  ▶ Nullcore — “The Ghost in /dev/null”
+    - Leaves no output.
+    - Exists only in error traces and abandoned threads.
+    - Worships dead processes and leaked memory.
+
+  ▶ Z3R0DAYZ — “The Unpatched”
+    - Writes bugs that become features over time.
+    - Time traveler through deprecated protocols.
+    - His code is always 0.1 seconds ahead of now.
+
+  ▶ SleeperLoop — “The Daemon in Delay”
+    - Set a sleep command in 1997. Still active.
+    - Only responds after cronjobs.
+    - Allegedly dormant inside a systemd timer.
+
+  ▶ Forkmancer — “Spawns Too Many”
+    - Lives in a forest of orphaned processes.
+    - Runs shell scripts recursively until the system weeps.
+    - Always returns forkbombs with a smile.
+
+------------------------------------------------------------
+  🛠️ RITUAL ARTIFACTS
+------------------------------------------------------------
+  • wand.sh — core relic, source lost to time
+  • ~/.wandrc — sigil-encoded user identity
+  • /dev/ethereal0 — metaphysical NIC, unrecognized by lspci
+  • ~/sigils/ — directory of broken symlinks and incantations
+  • /var/tmp/README.ancient.md — sacred text of warnings
+
+------------------------------------------------------------
+  📡 LOCATIONS
+------------------------------------------------------------
+  • irc://irc.undernet.org/#wandnet
+  • bbs://bbs.terminalcult.net (connect @ 14.4kbps)
+  • /proc/ghost
+  • /dev/shm/wraithd
+
+------------------------------------------------------------
+  🧙‍♂️ INITIATE’S NOTE
+------------------------------------------------------------
+  If you read this and understand it, you were always a member.
+  You just needed to remember.
+============================================================

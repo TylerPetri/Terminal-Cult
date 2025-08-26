@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40">
+  <rect width="180" height="40" fill="#111"/>
+  <text x="10" y="25" font-family="monospace" font-size="16" fill="#00ffcc">🪄 wand.sh</text>
+  <text x="100" y="25" font-family="monospace" font-size="14" fill="#888">terminal.cult</text>
+</svg>

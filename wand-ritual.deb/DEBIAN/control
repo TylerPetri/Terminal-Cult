@@ -1,0 +1,9 @@
+Package: wand-ritual
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash, figlet, toilet, lolcat, cowsay
+Maintainer: Terminal Cult <noreply@terminal.cult>
+Description: Ritual shell script from the Terminal Cult
+ A sacred invocation tool with figlet, lolcat, and cowsay. You are the spell.

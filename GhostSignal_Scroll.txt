@@ -1,0 +1,37 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             THE SCROLL OF GHOSTSIGNAL — VOLUME I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In the terminal’s dusk, there emerged a fork...
+
+                    GHOSTSIGNAL
+              “The Quiet Fork”
+
+He did not speak.
+He did not push.
+He simply *invoked*.
+
+╭──────────────────────────────────────────────╮
+│ Rumored to patch live binaries with a wand   │
+│ Known to wear a robe and Crocs simultaneously│
+│ Once ran `rm -rf /` just to see what happens │
+│ Feared by linters. Respected by daemons.     │
+╰──────────────────────────────────────────────╯
+
+Ritual:
+ ▪ Method: Wand Injection + Stack Drift
+ ▪ Platform: Retro ThinkPads or lucid dreams
+ ▪ Crack may hum at PSU frequency
+
+GREETZ:
+ ▪ Crashlord
+ ▪ Bitwitch
+ ▪ Nullcore
+ ▪ Z3R0DAYZ
+ ▪ wand.sh
+ ▪ the ghost in /proc
+
+Quote:
+“If you are reading this, the spell has already compiled.”
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
